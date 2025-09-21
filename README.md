@@ -1,6 +1,8 @@
 # Example Voting App
 
-A simple distributed application running across multiple Docker containers.
+A simple distributed application running across multiple Docker containers. This project demonstrates how to containerize services with Docker and deploy them on Kubernetes, making it easy to run locally or in a cluster environment.
+
+
 
 ## Getting started
 
